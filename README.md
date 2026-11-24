@@ -1,4 +1,4 @@
 # Term Assignment
 
-Your Name:
-Your Student Number:
+Your Name: Cody Pak
+Your Student Number: A01376863
